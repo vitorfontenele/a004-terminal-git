@@ -1,0 +1,10 @@
+Olá, eu sou o Vitor.
+Completei o Ensino Médio em 2014.
+Tenho 25 anos e me formei em Engenharia Mecânica no ano passado.
+Moro no Rio de Janeiro e gosto de viajar, fazer trilhas, aprender idiomas e amo animais.
+Também gosto de acompanhar futebol e sou torcedor do Flamengo.
+Tenho um cachorro chamado Toquinho.
+Gosto de programação desde que tive uma matéria na faculdade sobre isso.
+Lá (na faculdade) aprendi a programar em Python.
+Hoje quero ser uma pessoa mais feliz trabalhando como Dev e, se tudo der certo, viajar pelo mundo!
+
